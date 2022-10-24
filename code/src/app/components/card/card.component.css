@@ -10,7 +10,7 @@
 
 .example-card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  width: auto;
+  width: 50%;
   height: auto;
   margin: 2%;
   overflow: hidden;
@@ -24,7 +24,7 @@ img {
 .mat-card-contend {
   word-wrap: break-word;
   text-align: center;
-  background-color: #02182D;
+  background-color: #673AB7;
   color: #FFFFFF;
   text-align: center;
   width: 15%;

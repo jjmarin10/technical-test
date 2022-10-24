@@ -1,21 +1,22 @@
 .container-content {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     width: 100%;
-    background-color: #3179bd38;
+    background-color: #673AB7;
     display: flex;
     flex-direction: row;
-    padding: 1%;
-    margin-right: 2%;
+    padding: 0.5%;
     margin-bottom: 3%;
 }
 
 .container-content img {
-    width: 3.5%;
+    width: 3.3%;
     height: 5%;
-    margin-right: 2%;
-    
+    margin: 0 2% 0 1.5%;
+    cursor: pointer;
 }
 
 .container-content h1 {
-    color: #000;
+    margin-top: 0.3%;
+    color: #FFFF;
     font-weight: 600;
 }
