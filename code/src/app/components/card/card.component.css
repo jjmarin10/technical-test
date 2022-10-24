@@ -1,0 +1,44 @@
+.container-card {
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    order: 5;
+    padding: 1.5%;
+} 
+
+.example-card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: auto;
+  height: auto;
+  margin: 2%;
+  overflow: hidden;
+}
+
+img {
+    width: 30%;
+    height: 30%;
+}
+
+.mat-card-contend {
+  word-wrap: break-word;
+  text-align: center;
+  background-color: #02182D;
+  color: #FFFFFF;
+  text-align: center;
+  width: 15%;
+  height: 20;
+  padding: 1%;
+  border-radius: 25px;
+  margin: 0.6%;
+}
+
+.container-sub-breed{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 1.5%;
+  margin: 1%;
+}
+
